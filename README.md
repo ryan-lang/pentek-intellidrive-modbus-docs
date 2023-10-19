@@ -20,3 +20,6 @@ The original trial-and-error document is from Terry Love Forum member G33k_B0y.
 Upon request for more information to Pentek, this PDF was provided, which compliments some of what G33k_B0y found, and provides some new information, but is not comprehensive.
 
 [PDF File](pid10_modbus.pdf)
+
+### TODO
+- merge these into a canonical, easily accessible document
