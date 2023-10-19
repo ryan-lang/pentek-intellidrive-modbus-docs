@@ -1,5 +1,5 @@
-# pentek-intellidrive-modbus-docs
-Crowdsourced documentation for the Pentek Intellidrive PID10 (Pump Controller) MODBUS interface
+# Unofficial documentation for Pentek Intellidrive PID10
+Crowdsourced/unofficial documentation for the Pentek Intellidrive PID10 (Pump Controller) MODBUS interface
 
 The MODBUS interface for the Pentek Intellidrive is not documented in the manual, but by request from Pentek and some trial and error, many registers are known.
 
